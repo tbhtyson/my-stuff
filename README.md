@@ -1,2 +1,3 @@
-when downloaded, please put the path to the folder in /private/etc/paths!
+# how to install
+when downloaded, please run echo export PATH=$PATH:~/path/to/pkginstall >> ~/.profile
 After that, run pkginstall
